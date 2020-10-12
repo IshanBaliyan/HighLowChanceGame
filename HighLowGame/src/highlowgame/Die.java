@@ -1,4 +1,4 @@
-package assessment;
+package highlowgame;
 import java.lang.Math;
 
 import javafx.scene.image.ImageView;

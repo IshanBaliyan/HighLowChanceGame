@@ -1,4 +1,4 @@
-package assessment;
+package highlowgame;
 
 import java.util.ArrayList;
 

@@ -1,4 +1,4 @@
-package assessment;
+package highlowgame;
 
 public class ComputerPlayer extends HLPlayer {
 
