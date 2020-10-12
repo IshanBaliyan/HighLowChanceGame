@@ -13,5 +13,6 @@ During the game, each player gets a turn to roll the dice and bet a high or low 
 ![Screenshot (1)](https://user-images.githubusercontent.com/43831507/95701139-c6429c00-0c16-11eb-96ea-f4d39243a8f7.png)
 
 The program also shows statistics of each round and compares the player's points across the whole game:
-![Screenshot (3)](https://user-images.githubusercontent.com/43831507/95701797-87ade100-0c18-11eb-91bb-17cb90eab680.png)
+![Screenshot (3)](https://user-images.githubusercontent.com/43831507/95702134-7ca78080-0c19-11eb-923f-5a939b2549c3.png)
+
 
