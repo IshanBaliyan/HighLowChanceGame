@@ -1,7 +1,6 @@
 # HighLowChanceGame
 
-The High Low chance game was made using JavaFX and was used as a class assignment for ICS 4U (Grade 12 Computer Science). It took approximately 2 months to make and thousands of lines of code.
-Unfortunately, progress is unable to be viewed as the original repository was a private repository owned by the teacher (contact me if you want to see repo progress).
+The High Low chance game was made using JavaFX and was used as a class assignment for ICS 4U (Grade 12 Computer Science). It took approximately 2 months to make and several thousands of lines of code.
 
 The game can be played in 1VS1, 2VS2, teamsVSteams, 1VScomputer, teamsVScomputerTeams and more. 
 
