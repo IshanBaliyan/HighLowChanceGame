@@ -1,10 +1,13 @@
-# HighLowChanceGame
+# High-Low Chance Game
 
 The High Low chance game was made using JavaFX and was used as a class assignment for ICS 4U (Grade 12 Computer Science). It took approximately 2 months to make and several thousands of lines of code.
 
 The game can be played in 1VS1, 2VS2, teamsVSteams, 1VScomputer, teamsVScomputerTeams and more. 
 
 Quick game overview: The game lets players bet points for a high or low dice roll, while rewarding players for guessing correctly (rules further explained in program).
+
+Demo:
+<img src="https://raw.githubusercontent.com/IshanBaliyan/HighLowChanceGame/master/compress_demo_roll_game.gif">
 
 The game is highly customizable with full control over number of human players, teams, computer players, points, dice, sides on dice, and more:
 ![Screenshot (5)](https://user-images.githubusercontent.com/43831507/95702285-e2940800-0c19-11eb-839b-506c3a2d9da5.png)
