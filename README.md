@@ -6,7 +6,7 @@ The game can be played in 1VS1, 2VS2, teamsVSteams, 1VScomputer, teamsVScomputer
 
 Quick game overview: The game lets players bet points for a high or low dice roll, while rewarding players for guessing correctly (rules further explained in program).
 
-Demo:
+## **Demo:**
 <img src="https://raw.githubusercontent.com/IshanBaliyan/HighLowChanceGame/master/compress_demo_roll_game.gif">
 
 The game is highly customizable with full control over number of human players, teams, computer players, points, dice, sides on dice, and more:
